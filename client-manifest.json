@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "pack_id": "gtnh-private-addons",
+  "gtnh_version": "2.9.0-final",
+  "revision": "97b79e5d2f60c5e7",
+  "generated_at": "2026-11-17T03:00:34+00:00",
+  "mods": [
+    {
+      "reset_on_update": [],
+      "id": "123technology",
+      "repo": "CallmeSHaobe/123Technology",
+      "name": "123Technology",
+      "version": "2.2.1.3",
+      "filename": "OTHTechnology-2.2.1.3.jar",
+      "url": "https://github.com/CallmeSHaobe/123Technology/releases/download/2.2.1.3/OTHTechnology-2.2.1.3.jar",
+      "sha256": "1e29c3bd76fe59cbc63385b3df7c00aa96c3697f5adfa1b8873ad6ba005b7a64",
+      "side": "both",
+      "installed_regex": "(?i)^(?:othtechnology|123technology|123[-_.]?tech)[-_.].*\\.jar$"
+    },
+    {
+      "reset_on_update": [],
+      "id": "ae2things",
+      "repo": "GTNotLeisure/AE2Things",
+      "name": "AE2Things",
+      "version": "1.3.3",
+      "filename": "ae2thing-1.3.3.jar",
+      "url": "https://github.com/GTNotLeisure/AE2Things/releases/download/1.3.3/ae2thing-1.3.3.jar",
+      "sha256": "71b11eb3de4270648b0a12473f42d29b09cdc8f27fa3c0666551720f57fbf03b",
+      "side": "both",
+      "installed_regex": "(?i)^ae2things?[-_.].*\\.jar$"
+    },
+    {
+      "reset_on_update": [],
+      "id": "betterquestingapi",
+      "repo": "GTNotLeisure/BetterQuestingAPI",
+      "name": "BetterQuestingAPI",
+      "version": "1.1.4",
+      "filename": "bqapi-1.1.4.jar",
+      "url": "https://github.com/GTNotLeisure/BetterQuestingAPI/releases/download/1.1.4/bqapi-1.1.4.jar",
+      "sha256": "c63790c45fa016dc556a9dd3c4f60f9f77ccdf200379519b70025935f7558376",
+      "side": "both",
+      "installed_regex": "(?i)^(?:bqapi|betterquestingapi)[-_.].*\\.jar$"
+    },
+    {
+      "reset_on_update": [],
+      "id": "fmusic",
+      "repo": "czqwq/FMusic",
+      "name": "FMusic",
+      "version": "2.7",
+      "filename": "FMusic-2.7.jar",
+      "url": "https://github.com/czqwq/FMusic/releases/download/2.7/FMusic-2.7.jar",
+      "sha256": "ab55b2f653fefb01bf996c6dedd595977ac44aaeeb59f163486eb8da0d0177a4",
+      "side": "both",
+      "installed_regex": "(?i)^fmusic[-_.].*\\.jar$"
+    },
+    {
+      "reset_on_update": [],
+      "id": "gtit",
+      "repo": "MIAOKATZE/GT-Interesting-Thing",
+      "name": "GT-Interesting-Thing",
+      "version": "v2.1.17",
+      "filename": "gtit-v2.1.17.jar",
+      "url": "https://github.com/MIAOKATZE/GT-Interesting-Thing/releases/download/v2.1.17/gtit-v2.1.17.jar",
+      "sha256": "c8c0edc0338c9fe72a9886272065c16c09bb9ae81b94aba4be48b014992b5dbf",
+      "side": "both",
+      "installed_regex": "(?i)^(?:gtit|gt-interesting-thing)[-_.].*\\.jar$"
+    },
+    {
+      "reset_on_update": [],
+      "id": "gtmb",
+      "repo": "MIAOKATZE/GT-Miao-Blueprint",
+      "name": "GT-Miao-Blueprint",
+      "version": "v0.3.30",
+      "filename": "gtmb-v0.3.30.jar",
+      "url": "https://github.com/MIAOKATZE/GT-Miao-Blueprint/releases/download/v0.3.30/gtmb-v0.3.30.jar",
+      "sha256": "10b7f2e16adf9b21990f3e275e3381f647002d3d89f3380cd7f5cc7f18bbb91b",
+      "side": "both",
+      "installed_regex": "(?i)^(?:gtmb|gt-miao-blueprint)[-_.].*\\.jar$"
+    },
+    {
+      "reset_on_update": [
+        "config/GTNotLeisure/general.cfg",
+        "config/GTNotLeisure/item.cfg",
+        "config/GTNotLeisure/machine.cfg",
+        "config/GTNotLeisure/recipe.cfg",
+        "config/GTNotLeisure/re_avaritia.cfg",
+        "config/GTNotLeisure/GTNotLeisure.cfg",
+        "config/GTNotLeisure/main.cfg",
+        "config/GregTech/GregTech.lang",
+        "config/GregTech.lang"
+      ],
+      "id": "gtnl",
+      "repo": "GTNotLeisure/GT-Not-Leisure",
+      "name": "GT-Not-Leisure",
+      "version": "0.2.7",
+      "filename": "sciencenotleisure-0.2.7.jar",
+      "url": "https://github.com/GTNotLeisure/GT-Not-Leisure/releases/download/0.2.7/sciencenotleisure-0.2.7.jar",
+      "sha256": "17e7f8b28f4de9f460cd0845fdbad3b57ff820b66b6de36c928107c43f0c97ce",
+      "side": "both",
+      "installed_regex": "(?i)^(?:sciencenotleisure|gt[-_.]?not[-_.]?leisure)[-_.].*\\.jar$"
+    },
+    {
+      "reset_on_update": [],
+      "id": "gtnllib",
+      "repo": "GTNotLeisure/GTNLLib",
+      "name": "GTNLLib",
+      "version": "1.1.8",
+      "filename": "gtnllib-1.1.8.jar",
+      "url": "https://github.com/GTNotLeisure/GTNLLib/releases/download/1.1.8/gtnllib-1.1.8.jar",
+      "sha256": "93011e8d8da447e138e8ea228b5937c1946c4f23c04c9136b4bd1b6f3803befa",
+      "side": "both",
+      "installed_regex": "(?i)^gtnllib[-_.].*\\.jar$"
+    },
+    {
+      "reset_on_update": [],
+      "id": "gtsr",
+      "repo": "MIAOKATZE/GT-Steam-Reborn",
+      "name": "GT-Steam-Reborn",
+      "version": "v2.1.45",
+      "filename": "gtsr-v2.1.45.jar",
+      "url": "https://github.com/MIAOKATZE/GT-Steam-Reborn/releases/download/v2.1.45/gtsr-v2.1.45.jar",
+      "sha256": "786968d8126f393bc4cf4a4b3f3bfd923fefc028643da4bcd3ef5f2d5581746a",
+      "side": "both",
+      "installed_regex": "(?i)^(?:gtsr|gt-steam-reborn)[-_.].*\\.jar$"
+    },
+    {
+      "reset_on_update": [],
+      "id": "gtswn",
+      "repo": "MIAOKATZE/GT-Simple-Wireless-Network",
+      "name": "GT-Simple-Wireless-Network",
+      "version": "v2.1.34",
+      "filename": "gtswn-v2.1.34.jar",
+      "url": "https://github.com/MIAOKATZE/GT-Simple-Wireless-Network/releases/download/v2.1.34/gtswn-v2.1.34.jar",
+      "sha256": "1599e3de89b00949976b13ecf8b28526f7150f5eca7f1b187fdd563c7826b5a5",
+      "side": "both",
+      "installed_regex": "(?i)^(?:gtswn|gt-simple-wireless-network)[-_.].*\\.jar$"
+    },
+    {
+      "reset_on_update": [],
+      "id": "miaokatze-core",
+      "repo": "MIAOKATZE/MIAOKATZE-Core",
+      "name": "MIAOKATZE-Core",
+      "version": "v0.2.15",
+      "filename": "miaokatzecore-v0.2.15.jar",
+      "url": "https://github.com/MIAOKATZE/MIAOKATZE-Core/releases/download/v0.2.15/miaokatzecore-v0.2.15.jar",
+      "sha256": "11269b997b87d54aab0092fcc42697837df3958e399ec1d9e7cf5c47902a4a70",
+      "side": "both",
+      "installed_regex": "(?i)^miaokatze[-_.]?core[-_.].*\\.jar$"
+    },
+    {
+      "reset_on_update": [],
+      "id": "nhu",
+      "repo": "Keriils/NH-Utilities",
+      "name": "NH-Utilities",
+      "version": "1.7.0",
+      "filename": "NHUtilities-1.7.0.jar",
+      "url": "https://github.com/Keriils/NH-Utilities/releases/download/1.7.0/NHUtilities-1.7.0.jar",
+      "sha256": "1454a88a09f70238fef7b828dd8310913125acef741460f0a334e075512aaf17",
+      "side": "both",
+      "installed_regex": "(?i)^(?:nhutilities|nh-utilities)[-_.].*\\.jar$"
+    },
+    {
+      "reset_on_update": [],
+      "id": "ph",
+      "repo": "reobf/Programmable-Hatches-Mod",
+      "name": "Programmable-Hatches-Mod",
+      "version": "v0.2.1p7-beta",
+      "filename": "programmablehatches-0.2.1p7.jar",
+      "url": "https://github.com/reobf/Programmable-Hatches-Mod/releases/download/v0.2.1p7-beta/programmablehatches-0.2.1p7.jar",
+      "sha256": "c000a37d3ab13ef83170092b27fcf12de2aec4d81ce8178f22529862f7af4184",
+      "side": "both",
+      "installed_regex": "(?i)^(?:programmable[-_.]?hatches|ph)[-_.].*\\.jar$"
+    },
+    {
+      "reset_on_update": [],
+      "id": "torcherino",
+      "repo": "czqwq/Torcherino-GTNH",
+      "name": "Torcherino-GTNH",
+      "version": "3.3",
+      "filename": "Torcherino-3.3.jar",
+      "url": "https://github.com/czqwq/Torcherino-GTNH/releases/download/3.3/Torcherino-3.3.jar",
+      "sha256": "3cd5c75d32b4acc360e8887bd31d8ec6e428c7465c6bd7f137d873fcf6c8a7e6",
+      "side": "both",
+      "installed_regex": "(?i)^torcherino[-_.].*\\.jar$"
+    },
+    {
+      "reset_on_update": [
+        "config/TwistSpaceTechnology.cfg",
+        "config/GregTech/GregTech.lang",
+        "config/GregTech.lang"
+      ],
+      "id": "tst",
+      "repo": "Nxer/Twist-Space-Technology-Mod",
+      "name": "Twist-Space-Technology-Mod",
+      "version": "0.8.1",
+      "filename": "TwistSpaceTechnology-0.8.1.jar",
+      "url": "https://github.com/Nxer/Twist-Space-Technology-Mod/releases/download/0.8.1/TwistSpaceTechnology-0.8.1.jar",
+      "sha256": "169649b60b29269745a64717d28a068dfa984586465c0744ad0cfcd36095db38",
+      "side": "both",
+      "installed_regex": "(?i)^(?:twistspacetechnology|twist-space-technology|tst)[-_.].*\\.jar$"
+    }
+  ]
+}
